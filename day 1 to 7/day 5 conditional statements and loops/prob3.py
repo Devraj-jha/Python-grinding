@@ -7,8 +7,6 @@ for i in fruits:
   print(i)
 '''Loop with Index:
 
-Write a for loop that prints the index and corresponding value from the list colors = ['red', 'green', 'blue', 'yellow'].'''
-colors = ['red', 'green', 'blue', 'yellow']
-for i in colors:
+Write a for loop that prints the index and corresponding value from the list colors = ['red', 'green', 'blue', 'yellow'];'''
 
 
