@@ -9,3 +9,5 @@ print(type(4)) #type is use to check type of a data
 
 print(isinstance(3,str)) 
 #to check if a string is of spectifc data type
+
+#we can convert any data type to any data type...
